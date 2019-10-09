@@ -17,8 +17,8 @@ the network.
 * In the restaurant information page, you can read the reviews about that restaurant.
 * You can also know the operating hours for each restaurant.
 * You can try to open the website across multiple devices and you will see the responsiveness design of the website.
-* The website have the standard accessibility features.
-* lastly, you can navigate the website offline, as the website files is cached on your local cache storage.
+* The restaurant reviews website has the standard accessibility features.
+* Lastly, you can navigate the website offline, as the website files is cached on your local cache storage.
 
 ## Leaflet.js and Mapbox:
 
